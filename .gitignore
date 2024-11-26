@@ -1,0 +1,5 @@
+# Ignorar archivos específicos en MiLibreria
+.vs
+bin
+obj
+
